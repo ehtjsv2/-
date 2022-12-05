@@ -1,3 +1,4 @@
+![IMG_7865 JPG](https://user-images.githubusercontent.com/79188587/205580999-a3d5411d-73a0-4dcf-a398-58286aee84a7.jpg)
 # Fit A Pet 어플리케이션
 **Fit A Pet이란, Pit-A-Pat(두근두근) 이라는 신조어의 변형이며 반려동물에게 맞추어 서비스를 제공한다는 의미와 '두근두근' 설렘을 가져다 주는 어플이라는 뜻입니다**
 
