@@ -30,7 +30,7 @@
 * [회의내용 링크](/Meeting_content)
 
 ## 5. 자료 조사
-* [시장 조사]()
+* [시장 조사](/Meeting_content/221013%20회의(시장조사).md)
 * [벤치 마킹]()
 
 ## 6. REFERENCE
