@@ -1,5 +1,5 @@
 **:book: Contents**
-1. [Data Structure](#1-data-structure)
+1. [소스 코드](#1-소스-코드)
 2. [Network](#2-network)
 3. [Operating System](#3-operating-system)
 4. [Database](#4-database)
@@ -13,7 +13,7 @@
 
 ---
 
-## 1. Data Structure
+## 1. 소스 코드
 :arrow_forward: [답변 내용](/contents/datastructure.md)
 * Array
 * LinkedList
