@@ -23,7 +23,7 @@
 * [API명세서-서버2](http://118.45.212.21:8000/swagger/)
 
 ## 3. 프론트 엔드
-* [코드]()
+* [코드](/app/src/main)
 * [와이어프레임](https://xd.adobe.com/view/f64d7e8e-f444-4bd1-9b35-f5219d2e94b2-a31e/)
 
 ## 4. 회의 내용
