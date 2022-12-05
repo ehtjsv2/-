@@ -16,10 +16,11 @@
 * [논문](http://www.naver.com)
 
 ## 2. 백 엔드
-* 코드->([서버-1](https://github.com/KNUCapstoneDesignProject/petSitterService_mainServer) [서버-2](https://github.com/KNUCapstoneDesignProject/petSitterService_mainServer) )
+* 코드->([서버-1](https://github.com/KNUCapstoneDesignProject/petSitterService_mainServer) [서버-2](https://github.com/KNUCapstoneDesignProject/FitaPetService_subServer) )
 * [ERD설계](https://aquerytool.com/aquerymain/index/?rurl=6a36795f-3d45-4aa7-b440-e42299e3bbe9&)(비밀번호:ywecjq)
 * ![image](https://user-images.githubusercontent.com/79188587/205574476-5bd27a00-be04-42d6-9e02-6917e377b448.png)
-* [API명세서](https://dev.uksfirstdomain.shop/api-docs/)
+* [API명세서-서버1](https://dev.uksfirstdomain.shop/api-docs/)
+* [API명세서-서버2](http://118.45.212.21:8000/swagger/)
 
 ## 3. 프론트 엔드
 * [코드]()
