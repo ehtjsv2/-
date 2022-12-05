@@ -1,31 +1,15 @@
 **:book: Contents**
-1. [소스 코드](#1-소스-코드)
-2. [Network](#2-network)
-3. [Operating System](#3-operating-system)
-4. [Database](#4-database)
-5. [Design Pattern](#5-design-pattern)
-6. [Algorithm](#6-algorithm)
-7. [Java](#7-java)
-8. [JavaScript](#8-javascript)
-9. [Spring](#9-spring)
-10. [Security](#10-security)
-11. [ETC](#11-etc)
+1. [결과물](#1-결과물)
+2. [백엔드(서버)](#2-백-엔드)
+3. [프론트엔드(어플)](#3-프론트-엔드)
+4. [회의내용](#4-회의-내용)
 
 ---
 
-## 1. 소스 코드
+## 1. 결과물
 :arrow_forward: [답변 내용](/contents/datastructure.md)
-* Array
-* LinkedList
-* HashTable
-* Stack
-* Queue
-* Graph
-* Tree
-* 그래프(Graph)와 트리(Tree)의 차이점
-* Binary Heap
-* Red-Black Tree
-* B+ Tree
+* [결과물 영상](www.youtube.com)
+* [논문](www.naver.com)
 
 ## 2. Network
 :arrow_forward: [답변 내용](/contents/network.md)
