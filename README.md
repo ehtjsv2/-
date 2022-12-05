@@ -8,7 +8,7 @@
 
 ## 1. 결과물
 :arrow_forward: [답변 내용](/contents/datastructure.md)
-* [결과물 영상](www.youtube.com)
+* [결과물 영상](/www.youtube.com)
 * [논문](www.naver.com)
 
 ## 2. Network
