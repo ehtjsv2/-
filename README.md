@@ -14,13 +14,13 @@
 * [논문](http://www.naver.com)
 
 ## 2. 백 엔드
-* 코드
+* 코드( [서버-1](https://github.com/KNUCapstoneDesignProject/petSitterService_mainServer) [서버-2](https://github.com/KNUCapstoneDesignProject/petSitterService_mainServer)
 * [ERD설계](https://aquerytool.com/aquerymain/index/?rurl=6a36795f-3d45-4aa7-b440-e42299e3bbe9&)(비밀번호:ywecjq)
 * ![image](https://user-images.githubusercontent.com/79188587/205574476-5bd27a00-be04-42d6-9e02-6917e377b448.png)
 * [API명세서](https://dev.uksfirstdomain.shop/api-docs/)
 
 ## 3. 프론트 엔드
-* 코드
+* [코드]()
 * [와이어프레임](https://xd.adobe.com/view/f64d7e8e-f444-4bd1-9b35-f5219d2e94b2-a31e/)
 
 ## 4. 회의 내용
